@@ -1,0 +1,15 @@
+section {
+    color: rgb(184, 184, 184);
+}
+aside label{
+    font-size: 14px;
+}
+
+.titleBold, .confirm {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.confirm {
+    font-style: italic;
+}
